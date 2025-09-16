@@ -15,7 +15,7 @@ try:
     doc = catia.Documents.Add("Part")
 
     # 5) Feedback in PowerShell so you know it worked.
-    print("Hello CAD Automation! Part created.")
+    print("Hello CAD Automation from Ranjith ! New Part created.")
 
 except Exception as e:
     # If something goes wrong, show the error message.
